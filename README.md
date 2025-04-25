@@ -55,4 +55,4 @@ To run this project locally, ensure you have:
    Clone the repository to your local machine:
    ```bash
    git clone https://github.com/vetronics/drone-website.git
-   cd drone-website
+   cd project_drone
