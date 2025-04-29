@@ -39,7 +39,7 @@ The project structure is organized into folders and files as follows:
 
 ## C++ Script for Dynamic Content
 
-The project includes a **C++ script** located in `project_drone/html_file_creation_scripts/`. This script generates dynamic content for the site, i mean file of projects
+The project includes a **C++ script** located in `project_drone/html_file_creation_scripts/`. This script generates dynamic content for webesite , or rather file of projects(html file)
 
 ## How to Set Up the Project Locally 🔧
 
